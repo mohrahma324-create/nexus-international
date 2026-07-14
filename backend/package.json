@@ -1,0 +1,9 @@
+{
+  "name": "nexus-international-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netlify serverless functions for Nexus International",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}

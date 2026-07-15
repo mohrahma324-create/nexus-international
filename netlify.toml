@@ -1,7 +1,7 @@
 [build]
   base = "web"
   command = "npm install && npm --prefix ../backend install && npm run build"
-  publish = "web/dist"
+  publish = "dist"
   functions = "../backend/functions"
 
 [functions]
